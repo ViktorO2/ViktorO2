@@ -4,3 +4,11 @@
 - Youtube: DJ VIKO
 
 ## Skills
+-Java
+-C# 
+-Spring
+-Net Core
+-MySql
+-MSSQL
+
+
