@@ -1,41 +1,49 @@
-# Hi there, I'm Viktor! 👋
+# Hi there, I'm Viktor! 👋  
 
 🎵 **DJ by Night, Developer by Day**  
-🌱 Currently exploring the world of **Spring Boot** and expanding my knowledge every day!  
-⚡ **Fun fact:** When I'm not coding, I'm crafting beats and performing as DJ VIKO.  
-🎧 Check out my tracks on [YouTube](https://www.youtube.com/results?search_query=DJ+VIKO) and [SoundCloud](https://soundcloud.com/).  
+💻 Full-stack developer crafting powerful web apps with **Java, .NET, React & Docker**  
+🚀 Passionate about **clean code, scalable systems, and cool beats**  
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🛠 Tech Stack  
 
-### **Programming Languages**  
+### 🔹 **Backend**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### **Frameworks & Tools**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![.NET Core](https://img.shields.io/badge/.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)  
 
-### **Databases**  
+### 🔹 **Frontend**  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### 🔹 **DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### **Experience**  
-🔹 Developing **Web Applications**    
-🔹 Building **REST APIs**  
 
 ---
 
-## 📊 GitHub Highlights
+## 🚀 What I'm Working On  
+🔹 Building scalable **RESTful APIs**  
+🔹 Creating sleek **React frontends**  
+🔹 Exploring **microservices & containerization**  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViktorO2&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorO2&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
+</p>  
 
 ---
 
-## 🎧 Let's Connect!
+## 🎧 Let's Connect!  
 
 📹 **YouTube:** [DJ VIKO](https://www.youtube.com/results?search_query=DJ+VIKO)  
 🎵 **SoundCloud:** [DJ VIKO](https://soundcloud.com/)  
@@ -43,4 +51,4 @@
 
 ---
 
-🚀 *"Code during the day, drop beats at night!"*  
+🔥 *"Code by day, drop beats by night!"*  
